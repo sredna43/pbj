@@ -1,4 +1,4 @@
-# CharacterState.gd class definition for character states
+# CharacterState.gd class definition for character states, virtual class
 
 extends Node2D
 
