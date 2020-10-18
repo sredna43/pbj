@@ -5,3 +5,8 @@
 bin/
 build/
 lib/
+
+# git_api stuff
+
+git_api.gdns
+git_api.gdnlib
