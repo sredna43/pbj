@@ -2,10 +2,8 @@
 
 extends Node2D
 
-class_name CharacterState
-
-func handle_input(_event):
+func handle_input(_event) -> void:
     pass
 
-func update_state(_delta):
+func update_state(_delta) -> void:
     pass
